@@ -1,0 +1,370 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.whatsappbtn{
+    border: 2px solid #27AE60;
+    padding: 10px 15px;
+    color: #27AE60;
+    font-size: 16px;
+}
+
+.whatsappbtn i{
+    color: #27AE60;
+}
+.whatsappbtn:hover{
+    border: 2px solid #27AE60;
+    color: #27AE60;
+}
+
+.call{
+    color: white;
+    background:linear-gradient(to right, #0acefe,#2699f8);
+    padding: 10px 15px;
+}
+
+.row{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span{
+    color: #2699f8;
+}
+
+.bannerContent p{
+    font-size: 22px;
+}
+
+.bannerContent ul{
+    list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+.bannerContent ul li i{
+    color: #2699f8;
+} 
+
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 10px;
+} 
+
+.demoBtn{
+    background-color: #2699f8;
+    color: white;
+}
+
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+} 
+
+.Registration{
+    width: 100%;
+    padding: 8px 0px;
+    border-radius: 10px;
+    background-color: #2699f8;
+    border: none;
+}
+
+.counterSection h2{
+    font-size: 30px;
+    color: #2699f8;
+    font-weight: 700;
+}
+
+
+.highlights-section{
+    background-color: #dee6f4;
+}
+
+.highlights-section h2{
+    color: #0a2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.hightlights{
+    display: flex;
+    align-items: center;
+}
+.hightlights i{
+    font-size: 40px;
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.hightlights h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.hightlights p{
+    font-size: 15px;
+}
+
+.one{
+    background-color: hsl(271, 64%, 62%);
+}
+.one i{
+    color: hsl(271, 39%, 26%);
+}
+
+.two{
+    background-color: hsl(302, 65%, 83%);
+}
+.two i{
+    color: hsl(303, 39%, 26%);
+}
+
+.three{
+    background-color:  hsl(55, 69%, 76%);
+}
+.three i{
+    color: hsl(58, 39%, 26%);
+}
+
+.four{
+    background-color: hsl(116, 71%, 85%);
+}
+.four i{
+    color: hsl(115, 41%, 37%);
+}
+
+.five{
+    background-color: hsl(204, 71%, 79%);
+}
+.five i{
+    color: hsl(204, 43%, 38%);
+}
+
+.six{
+    background-color: hsl(32, 85%, 82%);
+}
+.six i{
+    color: hsl(32, 51%, 42%);
+}
+
+
+.freeclass{
+    height: 60px;
+    width: 200px;
+    background-color: #2699f8;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+}
+
+.digital{
+    font-weight: 700;
+}
+
+
+.tabitemcontent ul{
+    list-style: none;
+}
+
+.tabmysystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #f2f4f7;
+    color: black;
+    border-bottom:2px solid blue ;
+
+}
+
+.charone i{
+    font-size: 40px;
+    padding: 10px;
+    color: #2699f8;
+}
+
+.charone h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.charone p{
+    font-size: 17px;
+}
+
+.chartwo i{
+    font-size: 40px;
+    padding: 10px;
+    color: #0acefe;
+}
+
+.chartwo h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.chartwo p{
+    font-size: 17px;
+}
+
+.charthree i{
+    font-size: 40px;
+    padding: 10px;
+    color: #2699f8;
+}
+
+.charthree h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.charthree p{
+    font-size: 17px;
+}
+
+.charfour i{
+    font-size: 40px;
+    padding: 10px;
+    color: #0acefe;
+}
+
+.charfour h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.charfour p{
+    font-size: 17px;
+}
+
+.chooseyourcareer {
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #2699f8;
+}
+
+.textcenter{
+    font-size: 35px;
+}
+
+.logo{
+    font-size: 90px;
+    margin-bottom: 15px;
+}
+
+
+.dobox{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dobox i{
+    height: 20px;
+    width: 30px;
+    padding: 15px;
+    font-size: 30px; 
+    color: #1f9e9a;
+}
+.doboxp p{
+    margin-left: 30px;
+}
+
+.btnclasscenter{
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    background-color: #33c5ed;
+}
+
+.curriculum-section {
+    background-color: #dee6f4; ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footerone i{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    color: white;
+
+}
+
+.footerone p{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(114, 176, 197);
+} 
+
+.footerone h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+footer{
+    background-color: #0a2134;
+}
